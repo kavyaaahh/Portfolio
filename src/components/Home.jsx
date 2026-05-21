@@ -2,7 +2,7 @@ import React from "react";
 
 function Home() {
   return (
-    <div id="home"className="bg-gradient-to-br from-zinc-950 ia-zinc-900 to-orange-950 text-white px-6 md:px-20 py-30 min-h-screen ">
+    <div id="home"className=" text-white px-6 md:px-20 py-30 min-h-screen ">
 
       <section className="flex flex-col-reverse lg:flex-row items-center justify-between gap-16">
 

@@ -14,7 +14,7 @@ function Navbar() {
   };
 
   return (
-    <div className="bg-gradient-to-br from-zinc-950 via-zinc-900 to-orange-950 text-white">
+    <div className=" text-white">
 
       {/* NAVBAR */}
       <nav className="fixed top-0 left-0 w-full z-50 px-6 md:px-16 py-4">

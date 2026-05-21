@@ -9,6 +9,8 @@ import "./App.css";
 import Footer from "./components/Footer";
 function App(){
   return(
+    <div className="bg-gradient-to-r from-zinc-950 via-orange to-orange-950 text-white min-h-screen">
+
   <>
   <Navbar/>
   <Home/>
@@ -19,6 +21,7 @@ function App(){
   <Footer/>
 
   </>
+  </div>
   )
 }
 export default App;
