@@ -2,7 +2,7 @@ import React from "react";
 
 function Education() {
   return (
-    <section id="education" className="min-h-screen text-white px-6 md:px-16 py-20">
+    <section id="education" className="min-h-screen bg-gradient-to-r from-zinc-950 via-orange to-orange-950 text-white px-6 md:px-16 py-20">
 
       {/* SECTION HEADER */}
       <div className="mb-14">
